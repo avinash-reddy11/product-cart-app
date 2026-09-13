@@ -147,7 +147,7 @@ return (
                     </div> 
                   </div>
                   <div className="flex flex-col items-end gap-2">
-                    <span className="font-medium">&{(item.price * item.quantity).toFixed(2)}</span>
+                    <span className="font-medium">${(item.price * item.quantity).toFixed(2)}</span>
                     <button 
                       onClick={() => setItemToDelete(item)}
                       className="text-red-500 hover:text-red-700">
