@@ -47,4 +47,8 @@ Building this project helped me practice:
 
 ## Screenshots
 
-*(Add 1–2 screenshots here — product grid and cart view)*
+### Product Grid
+![Product Grid](screenshots/product-grid.png)
+
+### Cart View
+![Cart View](screenshots/cart-view.png)
